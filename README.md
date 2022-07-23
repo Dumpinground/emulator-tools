@@ -5,4 +5,6 @@
 How do I install these manifests?
 ---------------------------------
 
-To add this bucket, run `scoop bucket add emulator-tools https://github.com/Dumpinground/emulator-tools`. To install, do `scoop install <manifest>`.
+To add this bucket, run `scoop bucket add emulator-tools https://github.com/Dumpinground/emulator-tools`. 
+
+To install, do `scoop install <manifest>`.
